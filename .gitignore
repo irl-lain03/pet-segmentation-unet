@@ -1,0 +1,23 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Datasets and model checkpoints
+oxford_pet/
+checkpoints/
+*.pt
+*.pth
+*.tar.gz
+
+# OS generated files
+.DS_Store
+Thumbs.db
