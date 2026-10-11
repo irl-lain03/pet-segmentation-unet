@@ -1,6 +1,6 @@
 # Pet Image Segmentation and Classification Using U-Net and Attention U-Net
 
-An end-to-end deep learning pipeline implemented in PyTorch for the **CSE428: Image Processing ** course. Developed on the Oxford-IIIT Pet Dataset (37 pet breeds) for simultaneous semantic segmentation (binary foreground mask extraction from trimap annotations) and multi-class breed classification using standard U-Net and Attention U-Net backbones with joint classification heads.
+An end-to-end deep learning pipeline implemented in PyTorch for the **CSE428: Image Processing** course. Developed on the Oxford-IIIT Pet Dataset (37 pet breeds) for simultaneous semantic segmentation (binary foreground mask extraction from trimap annotations) and multi-class breed classification using standard U-Net and Attention U-Net backbones with joint classification heads.
 
 ---
 
